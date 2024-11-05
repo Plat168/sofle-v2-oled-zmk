@@ -44,7 +44,7 @@ layers:
   - V
   - B
   - MUTE
-  - ''
+  - CLCK
   - N
   - M
   - ','
@@ -136,22 +136,22 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - INS
+  - {t: ▽, type: trans}
   - PSCRN
   - CMENU
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - AC SEARCH
   - PG UP
-  - {t: ▽, type: trans}
+  - HOME
   - UP
+  - END
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LALT
   - LCTRL
   - LSHFT
-  - {t: ▽, type: trans}
+  - LALT
   - CLCK
   - PG DN
   - LEFT
@@ -160,15 +160,15 @@ layers:
   - DEL
   - BSPC
   - {t: ▽, type: trans}
-  - UNDO
-  - CUT
-  - COPY
-  - PASTE
+  - AC UNDO
+  - AC CUT
+  - AC COPY
+  - AC PASTE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - INS
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -182,7 +182,7 @@ layers:
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - SCROLLLOCK
   adjust:
   - BT CLR
   - {t: BT, h: '0'}
@@ -190,11 +190,11 @@ layers:
   - {t: BT, h: '2'}
   - {t: BT, h: '3'}
   - {t: BT, h: '4'}
-  - ''
   - KP NUMLOCK
-  - ''
-  - ''
-  - ''
+  - '*'
+  - /
+  - +
+  - '-'
   - ''
   - EP TOG
   - RGB HUD
@@ -242,5 +242,5 @@ layers:
   - ''
   - {type: held}
   - KP 0
-  - ''
+  - .
   - ''
