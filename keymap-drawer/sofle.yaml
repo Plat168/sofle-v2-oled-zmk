@@ -1,7 +1,7 @@
 layout: {qmk_keyboard: sofle/rev1}
 layers:
   default:
-  - '`'
+  - '='
   - '1'
   - '2'
   - '3'
@@ -12,8 +12,8 @@ layers:
   - '8'
   - '9'
   - '0'
-  - DELETE
-  - ESC
+  - '-'
+  - '`'
   - Q
   - W
   - E
@@ -24,7 +24,7 @@ layers:
   - I
   - O
   - P
-  - BSPC
+  - \
   - TAB
   - A
   - S
@@ -54,7 +54,7 @@ layers:
   - LGUI
   - LALT
   - LCTRL
-  - lower
+  - {t: ESCAPE, h: lower}
   - SPACE
   - ENTER
   - {t: BACKSPACE, h: raise}
