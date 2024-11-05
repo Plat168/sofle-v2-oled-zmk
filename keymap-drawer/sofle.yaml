@@ -139,8 +139,8 @@ layers:
   - {t: ▽, type: trans}
   - PSCRN
   - CMENU
-  - {t: ▽, type: trans}
   - AC SEARCH
+  - Ctl+ L
   - PG UP
   - HOME
   - UP
@@ -160,10 +160,10 @@ layers:
   - DEL
   - BSPC
   - {t: ▽, type: trans}
-  - UNDO
-  - CUT
-  - COPY
-  - PASTE
+  - Ctl+ Z
+  - Ctl+ X
+  - Ctl+ COPY
+  - Ctl+ PASTE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
