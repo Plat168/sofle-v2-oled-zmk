@@ -134,7 +134,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Alt+ F4
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - PSCRN
@@ -146,7 +146,7 @@ layers:
   - UP
   - END
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Alt+Ctl+ DEL
   - {t: ▽, type: trans}
   - Ctl+ A
   - LCTRL
@@ -220,7 +220,7 @@ layers:
   - KP 6
   - ''
   - ''
-  - Alt+Ctl+ DELETE
+  - {t: ▽, type: trans}
   - ''
   - ''
   - ''
