@@ -148,7 +148,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Ctl+ A
   - LCTRL
   - LSHFT
   - LALT
@@ -208,7 +208,7 @@ layers:
   - KP 9
   - ''
   - ''
-  - ''
+  - '&bootloader'
   - RGB BRD
   - RGB BRI
   - ''
