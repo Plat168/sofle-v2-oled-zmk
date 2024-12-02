@@ -57,12 +57,12 @@ layers:
   - {t: ESCAPE, h: lower}
   - SPACE
   - ENTER
-  - {t: BACKSPACE, h: raise}
+  - BACKSPACE
   - RIGHT CONTROL
   - RALT
   - RGUI
   lower:
-  - {t: ▽, type: trans}
+  - '`'
   - F1
   - F2
   - F3
@@ -74,7 +74,7 @@ layers:
   - F9
   - F10
   - F11
-  - ESCAPE
+  - {t: ▽, type: trans}
   - '1'
   - '2'
   - '3'
@@ -179,7 +179,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - SCROLLLOCK
@@ -240,7 +240,7 @@ layers:
   - {type: held}
   - ''
   - ''
-  - {type: held}
+  - ''
   - KP 0
   - .
   - ''
